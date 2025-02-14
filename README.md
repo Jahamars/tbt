@@ -1,4 +1,4 @@
-### Script displays the progress of the current day, week, month, and year in percentages.
+Script displays the progress of the current day, week, month, and year in percentages.
 
 ```
  
@@ -10,8 +10,8 @@
  ```
 
 Requirements:
-    - Bash (standard shell)
-    - date (part of GNU coreutils)
+- Bash (standard shell)
+- date (part of GNU coreutils)
 
 
 You can integrate this script with anything you want.
