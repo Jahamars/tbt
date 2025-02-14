@@ -20,3 +20,18 @@ Example:
 - Add this line to your shell configuration file(.bashrc / .zshrc)
 - `` ~/path/to/tbt.sh -d ``
 - Now, every time you open a terminal, it will display the progress of the current day
+
+```
+ Day    : [##################................................]  36%
+```
+
+
+Flags
+
+```bash 
+
+tbt.sh -d # Day progress
+tbt.sh -w # Week progress
+tbt.sh -m # Month progress
+tbt.sh -y # Year progress
+```
